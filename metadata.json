@@ -1,0 +1,6 @@
+{
+  "name": "Orion AI",
+  "description": "Orion AI is a premium, modern AI chat companion inspired by ChatGPT. It features active Gemini chat sessions, local conversation histories, secure user authentication (Login, Sign-Up, Forgot Password), customizable user profiles with custom star insignias, and a dark constellation aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
